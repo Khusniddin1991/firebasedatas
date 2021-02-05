@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002970959859",
+    "project_id": "pdponline-b9144",
+    "firebase_url":"https://pdponline-b9144-default-rtdb.firebaseio.com/",
+    "storage_bucket": "pdponline-b9144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002970959859:android:206ceb6fe637e633454c86",
+        "android_client_info": {
+          "package_name": "com.pdp.pdponline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002970959859-66sppjptvjvatif208tmj7min899s6gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6feSZCAPfNstgnf-qkyE3ui8CHUvIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002970959859-66sppjptvjvatif208tmj7min899s6gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
